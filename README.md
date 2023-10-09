@@ -13,11 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My email is carnish.c@northeastern.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently majoring in Data Science
-
-Resume for Colin Carnish:
-
-Education:
-
-Northeastern University, Khoury College of Computer Sciences
-Candidate: Bachelor of Science in Data Science
-Boston, MA - Sept. 2023 - May 2027
+-->
